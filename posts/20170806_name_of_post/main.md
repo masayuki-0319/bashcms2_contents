@@ -7,3 +7,4 @@ Copyright: (C) 2019 Ryuichi Ueda
 
 Write contents here.
 hoge
+fuge
